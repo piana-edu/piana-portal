@@ -35,6 +35,5 @@ build/
 ###
 
 compose/data
-src
 **/target
 .gitattributes
